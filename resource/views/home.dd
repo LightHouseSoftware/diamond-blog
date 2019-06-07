@@ -1,0 +1,14 @@
+@[
+  layout:
+    layout
+---
+  route:
+    home
+---
+  placeholders:
+  [
+    "title": "Home"
+  ]
+]
+
+<p>Hello Diamond!</p>

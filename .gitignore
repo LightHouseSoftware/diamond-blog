@@ -1,0 +1,13 @@
+.dub
+docs.json
+__dummy.html
+docs/
+.idea
+target
+*.exe
+*.o
+*.obj
+*.lst
+*.bat
+*.docx
+*.iml

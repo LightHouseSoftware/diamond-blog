@@ -1,0 +1,27 @@
+{
+	"dependencies": {
+		"vibe-d": "~>0.8.5",
+		"diamond": "~>2.8.2",
+		"mysql-native": "~>2.2.1"
+	},
+	"versions": [
+		"Diamond_Debug",
+		"Diamond_WebServer"
+	],
+	"sourcePaths": [
+		"source"
+	],
+	"stringImportPaths": [
+		"resource/config",
+		"resource/views"
+	],
+	"name": "diamond-test",
+	"targetType": "executable",
+	"targetName": "diamond-test",
+	"targetPath": "target/out",
+	"workingDirectory": "target/out",
+	"copyFiles": [
+		"resource/config", 
+		"resource/public"
+	]
+}

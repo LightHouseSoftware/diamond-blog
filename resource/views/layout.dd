@@ -1,0 +1,16 @@
+@<doctype>
+<html>
+<head>
+  <!-- Primary Language/Frameworks: D, vibe.d, Diamond MVC -->
+  <!-- https://dlang.org/ -->
+  <!-- http://vibed.org/ -->
+  <!-- https://github.com/DiamondMVC/ -->
+
+  <title>@<title></title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+  @<view>
+</body>
+</html>
