@@ -18,8 +18,8 @@
 	"name": "diamond-test",
 	"targetType": "executable",
 	"targetName": "diamond-test",
-	"targetPath": "target/out",
-	"workingDirectory": "target/out",
+	"targetPath": "target/production/diamond-test",
+	"workingDirectory": "target/production/diamond-test",
 	"copyFiles": [
 		"resource/config", 
 		"resource/public"
