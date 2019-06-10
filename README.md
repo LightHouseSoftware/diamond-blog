@@ -3,6 +3,7 @@
 
 ## Информация
 * Сайт: https://diamondmvc.org/
+* Discord: https://discord.gg/UTysCSH
 * Документация: https://diamondmvc.org/docs
 * Исходники: https://github.com/DiamondMVC/Diamond
 * Устарелые примеры: https://github.com/DiamondMVC/Examples
