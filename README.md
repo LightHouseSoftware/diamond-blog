@@ -1,5 +1,5 @@
-# diamond-test
-Тестовое приложение на DiamondMVC
+# diamond-blog
+Тестовое приложение-блог на DiamondMVC
 
 ## Информация
 * Сайт: https://diamondmvc.org/
