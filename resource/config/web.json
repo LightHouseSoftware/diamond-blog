@@ -1,5 +1,5 @@
 {
-  "name": "diamond-empty-project",
+  "name": "diamond-test",
   "staticFileRoutes": ["public"],
   "homeRoute": "home",
   "allowFileRoute": false,
