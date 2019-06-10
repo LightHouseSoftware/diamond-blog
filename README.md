@@ -4,7 +4,7 @@
 ## Информация
 * Сайт: https://diamondmvc.org/
 * Discord: https://discord.gg/UTysCSH
-* Документация: https://diamondmvc.org/docs
+* Документация: https://diamondmvc.org/docs, https://diamondmvc.org/api
 * Исходники: https://github.com/DiamondMVC/Diamond
 * Устарелые примеры: https://github.com/DiamondMVC/Examples
 * Развертывание: https://diamondmvc.org/tutorials/deployment
